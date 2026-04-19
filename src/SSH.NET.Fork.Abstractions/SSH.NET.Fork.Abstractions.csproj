@@ -17,7 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Lindhart.Analyser.MissingAwaitWarning" Version="1.2.1" />
+    <PackageReference Include="Lindhart.Analyser.MissingAwaitWarning" Version="3.2.0" />
     <PackageReference Include="SonarAnalyzer.CSharp" Version="10.23.0.137933">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
